@@ -19,6 +19,7 @@ You can also use `clustal2fasta.pl` to convert clustalO file to fasta file. To u
 
 ```
 perl clustal2fasta.pl input.aln output.fasta
+```
 
 # Note
 Make sure that all steps run correctly, if you get an error while running this script. To run the given scripts here, you need python > 3.0 versions and Perl tools. Both scripts have been checked and they work fine. Go ahead!
