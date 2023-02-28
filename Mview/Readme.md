@@ -1,6 +1,6 @@
 # Installation guide
 
-You can run the following commands to install Mview on your system. The Mview source codes can be obtained [here:Version 1.67 2020-02-14](https://sourceforge.net/projects/bio-mview/files/bio-mview/mview-1.67/)
+You can run the following commands to install Mview on your system. The Mview source codes can be obtained [developer website](https://sourceforge.net/projects/bio-mview/files/bio-mview/mview-1.67/)
 
 1. Save the archive to somewhere under your home folder then uncompress and extract it:
 ```
