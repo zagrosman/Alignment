@@ -8,15 +8,20 @@ This Python script reads a Clustal Omega alignment output file (.aln) and conver
 2. Run the script using the following command:
 
 ```
-python clustal_to_fasta.py input.aln output.fasta
+python clustal2fasta.py input.aln output.fasta
 ```
 
 **input.aln:** clustal output file. 
 **output.fasta:** the output of this script. 
 
 
+You can also use `clustal2fasta.pl` to convert clustalO file to fasta file. To use this script, run the following command:
+
+```
+perl clustal2fasta.pl input.aln output.fasta
+
 # Note
-Make sure that all steps run correctly, if you get an error while running this script. To run the script, you need python > 3.0 versions. 
+Make sure that all steps run correctly, if you get an error while running this script. To run the given scripts here, you need python > 3.0 versions and Perl tools. Both scripts have been checked and they work fine. Go ahead!
 
 
 # Online conversion
