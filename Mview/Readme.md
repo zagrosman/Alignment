@@ -1,4 +1,4 @@
-# Installation guide
+## $\textcolor{green}{Installation\ guide}$
 
 You can run the following commands to install Mview on your system. The Mview source codes can be obtained [developer website](https://sourceforge.net/projects/bio-mview/files/bio-mview/mview-1.67/)
 
