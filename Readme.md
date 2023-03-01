@@ -11,6 +11,13 @@
 3. Run ClustalO and Mview.
 4. Run python and perl scripts based on their instructions to convert alignment format and visualize alignment outputs. 
 
+# How to download the repository files
+To download all files found in this repository, you can do:
+1. Direct download of all files by clicking on the green button at the top side of this repository. 
+2. Using `wget command` in terminal. You can run something like this;
+```
+$ wget 
+```
 # Note
 
 <p align="justify"> You can fork this repository into your own GitHub account to have a permanent access to further updates. Please share this repository with your friends and cite the instructions, if you plan to use the content for scientific and commercial purposes. </p>
