@@ -16,7 +16,7 @@ To download all files found in this repository, you can do:
 1. Direct download of all files by clicking on the green button at the top side of this repository. 
 2. Using `wget command` in terminal. You can run something like this;
 ```
-$ wget 
+$ wget https://github.com/zagrosman/Alignment.git
 ```
 # Note
 
