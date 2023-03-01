@@ -1,4 +1,4 @@
-# Installation guide
+## $\textcolor{green}{Installation\ guide}$
 
 **Routine procedure:** You can use the installation instructions found in source codes of ClustalO. 
 
@@ -20,5 +20,5 @@ Then, type `clustalo --help` in your Linux terminal. Running this command return
 
 
 
-# Note
+## $\textcolor{green}{Note}$
 If you try to install clustalO through source file, argtable2 package needs to be installed first. You can get the source codes [here](http://argtable.sourceforge.net/)
