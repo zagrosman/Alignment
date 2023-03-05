@@ -19,5 +19,5 @@ $ wget https://github.com/zagrosman/Alignment.git
 ```
 ## $\textcolor{green}{Note}$
 
-<p align="justify"> You can fork this repository into your own GitHub account to have a permanent access to further updates. Please share this repository with your friends and cite the instructions, if you plan to use the content for scientific and commercial purposes. </p>
+<p align="justify"> You can fork this repository into your own GitHub account to have a permanent access to further updates. Please share this repository with your friends and cite the instructions, if you plan to use the content for scientific and commercial purposes. </p> 
 
